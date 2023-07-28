@@ -1,1 +1,1 @@
-FROM xyouxiu6/go-chatgpt-apiv10:latest
+FROM xyouxiu6/opengpt:v1

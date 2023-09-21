@@ -1,1 +1,1 @@
-FROM xyouxiu6/opengpt:v1
+FROM xyouxiu6/chatgpt-mirai-qq-bot:v2.5.3
